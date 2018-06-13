@@ -1,0 +1,30 @@
+ /*2018*/
+
+    /* TEAM */
+
+    Angelique Cottencin
+    Raleuse, Developeuse Web
+    cottencin.angelique@gmail.com
+
+    Salome Thomas
+    Pikachu! Coordinatrice du bazar codé d'Angelique!
+    Salome.thomas1458@gmail.com
+
+    							
+    /* THANKS */
+
+    La sorciere du CDI, Orianne Debatty
+    Le proviseur du college, Pascal Fortin
+
+ /* SITE */
+
+                                
+Last update:  2018/02/16
+Standards: HTML5, CSS3, PHP7
+Components: Template Stellar HTML5UP, PDO, MySQL
+Software: Visual Studio Code, PHPStorm, MySQL Workbench, Phpmyadmin
+       
+                            
+
+
+                    
